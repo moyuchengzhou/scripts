@@ -1,0 +1,6 @@
+<Build name="lanmeibean.scml">
+ <Symbol name="symbol0">
+  <Frame framenum="0" duration="1" image="lanmeibean" w="120" h="120" x="-1.983482" y="-12.892559"/>
+  <Frame framenum="1" duration="1" image="lanmeibean_cooked" w="120" h="120" x="-1.983482" y="-8.925602"/>
+ </Symbol>
+</Build>

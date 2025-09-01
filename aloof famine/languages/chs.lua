@@ -1,0 +1,3 @@
+
+STRINGS.NAMES.HANBAOBAO = "汉堡包"  -- 皮蛋的名字
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANBAOBAO = "只有牙齿足够硬才能啃的动" -- 按alt检查时人物说的话

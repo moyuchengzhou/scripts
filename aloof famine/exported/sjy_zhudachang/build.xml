@@ -1,0 +1,5 @@
+<Build name="sjy_zhudachang.scml">
+ <Symbol name="sjy_zhudachang">
+  <Frame framenum="0" duration="1" image="sjy_zhudachang" w="250" h="250" x="0.000000" y="-25.000000"/>
+ </Symbol>
+</Build>
